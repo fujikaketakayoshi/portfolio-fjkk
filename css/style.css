@@ -27,7 +27,7 @@ body {
 
 .block-main {
 	text-align: center;
-	margin: 100px 0;
+	margin: 100px auto;
 }
 
 .item-list {
