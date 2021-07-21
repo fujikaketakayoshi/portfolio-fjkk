@@ -7,7 +7,17 @@
         <meta name="description" content="藤掛貴由の自己紹介">
 <!--         <link rel="icon" href="img/logo-twitterblue.svg"> -->
         <link href="css/style.css" rel="stylesheet">
-        <title>portfolio</title>
+        <title>portfolio - 藤掛貴由</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D6T3RSLZ71"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-D6T3RSLZ71');
+</script>
+
     </head>
 <body>
     <header>
