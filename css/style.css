@@ -41,6 +41,10 @@ body {
 .item-list img {
 	border-radius: 50%;
 }
+.item-list img.youtube {
+	border-radius: 0%;
+}
+
 
 .item-list b {
 	display: block;
@@ -78,6 +82,13 @@ body {
 	width: 54px;
 	height: 52px;
 }
+
+.icon-list li img.youtube {
+	width: 54px;
+	height: 52px;
+}
+
+
 
 .box-works {
 	margin: 80px 0 0;
